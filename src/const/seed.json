@@ -1,0 +1,1972 @@
+[
+  {
+    "topic": [
+      {
+        "id": "9a77c45e-02ee-4504-90f3-3ec078e347a2",
+        "name": "Technology",
+        "description": "Exploring the latest tech trends",
+        "created_at": "2023-09-25T19:34:21.212Z",
+        "updated_at": "2023-09-26T10:27:48.808Z"
+      },
+      {
+        "id": "c865bcc5-7c16-45fc-ba63-550a52cb4f0a",
+        "name": "Sports",
+        "description": "Covering sports events around the world",
+        "created_at": "2023-09-25T22:30:30.771Z",
+        "updated_at": "2023-09-25T15:47:25.582Z"
+      },
+      {
+        "id": "11966290-83e0-4e4f-8215-e03df0a553dd",
+        "name": "Food",
+        "description": "Delicious recipes and cooking tips",
+        "created_at": "2023-09-26T04:26:08.944Z",
+        "updated_at": "2023-09-26T03:37:30.281Z"
+      },
+      {
+        "id": "bdd32c57-ea7f-4bbd-a7ac-f38aff26d2ea",
+        "name": "Travel",
+        "description": "Discovering new travel destinations",
+        "created_at": "2023-09-25T18:26:47.500Z",
+        "updated_at": "2023-09-26T12:13:39.756Z"
+      },
+      {
+        "id": "37d95751-bf2e-48b8-a59e-c228a5bb8b59",
+        "name": "Music",
+        "description": "Exploring different music genres",
+        "created_at": "2023-09-26T06:21:40.787Z",
+        "updated_at": "2023-09-26T05:22:09.603Z"
+      }
+    ],
+    "query": [
+      {
+        "id": "04c05f8f-51e2-4c60-af5d-74b791991694",
+        "content": "How to fix a broken phone screen?",
+        "created_at": "2023-09-26T01:31:41.759Z",
+        "updated_at": "2023-09-26T03:28:15.299Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11db63fa-b3fb-4407-bf3c-f04aaf01f7aa",
+        "content": "Best exercises for weight loss",
+        "created_at": "2023-09-25T21:20:08.466Z",
+        "updated_at": "2023-09-25T18:27:29.219Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "522aa309-0199-41b6-835b-5fb142f31615",
+        "content": "Quick and easy dinner recipes",
+        "created_at": "2023-09-25T15:45:42.404Z",
+        "updated_at": "2023-09-26T06:24:30.128Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c3af5ae-f1da-4f5e-ae54-436dad716b4a",
+        "content": "Top travel destinations in Europe",
+        "created_at": "2023-09-26T12:41:02.828Z",
+        "updated_at": "2023-09-25T18:06:00.118Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a7b0eac-b6e6-4a7f-9489-37a02dcf2891",
+        "content": "Greatest hits of all time",
+        "created_at": "2023-09-26T07:57:50.092Z",
+        "updated_at": "2023-09-26T12:15:52.997Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "response": [
+      {
+        "id": "c05fb613-7f76-4262-81c2-13b8a7add83e",
+        "content": "Here's a step-by-step guide to fix a broken phone screen.",
+        "created_at": "2023-09-25T23:28:59.369Z",
+        "updated_at": "2023-09-25T19:39:10.657Z",
+        "query_id": "3a7b0eac-b6e6-4a7f-9489-37a02dcf2891"
+      },
+      {
+        "id": "b0ceca59-3662-42bc-a4f1-70eafd97b637",
+        "content": "Try these effective exercises for weight loss.",
+        "created_at": "2023-09-26T11:20:27.852Z",
+        "updated_at": "2023-09-26T06:27:12.352Z",
+        "query_id": "522aa309-0199-41b6-835b-5fb142f31615"
+      },
+      {
+        "id": "db87581d-9e9f-4b28-a8ed-43c2e9769a3c",
+        "content": "Check out these quick and easy dinner recipes.",
+        "created_at": "2023-09-25T17:41:04.616Z",
+        "updated_at": "2023-09-25T17:57:52.045Z",
+        "query_id": "04c05f8f-51e2-4c60-af5d-74b791991694"
+      },
+      {
+        "id": "b5340933-981a-4888-bbe5-3e47345c9d62",
+        "content": "Discover the top travel destinations in Europe.",
+        "created_at": "2023-09-26T10:36:21.077Z",
+        "updated_at": "2023-09-25T15:31:21.477Z",
+        "query_id": "5c3af5ae-f1da-4f5e-ae54-436dad716b4a"
+      },
+      {
+        "id": "22c81419-e4b3-4f20-9896-9f4ed8405ac4",
+        "content": "Listen to the greatest hits of all time.",
+        "created_at": "2023-09-26T05:32:33.168Z",
+        "updated_at": "2023-09-25T13:36:58.404Z",
+        "query_id": "3a7b0eac-b6e6-4a7f-9489-37a02dcf2891"
+      }
+    ],
+    "query_topic": [
+      {
+        "id": "a6da7bbf-525c-410a-869b-3ab556458f06",
+        "created_at": "2023-09-26T12:49:28.468Z",
+        "updated_at": "2023-09-25T19:20:55.989Z",
+        "query_id": "522aa309-0199-41b6-835b-5fb142f31615",
+        "topic_id": "37d95751-bf2e-48b8-a59e-c228a5bb8b59"
+      },
+      {
+        "id": "ac95ecf1-0a8c-4639-9ece-69d1c6877591",
+        "created_at": "2023-09-26T11:20:00.917Z",
+        "updated_at": "2023-09-26T07:53:22.865Z",
+        "query_id": "11db63fa-b3fb-4407-bf3c-f04aaf01f7aa",
+        "topic_id": "c865bcc5-7c16-45fc-ba63-550a52cb4f0a"
+      },
+      {
+        "id": "29167b7f-de5c-449b-b8c2-43c7ef6f0a93",
+        "created_at": "2023-09-25T14:16:05.719Z",
+        "updated_at": "2023-09-25T22:11:07.486Z",
+        "query_id": "5c3af5ae-f1da-4f5e-ae54-436dad716b4a",
+        "topic_id": "9a77c45e-02ee-4504-90f3-3ec078e347a2"
+      },
+      {
+        "id": "826950ac-f142-4ce6-b8b4-3951e78ef4b6",
+        "created_at": "2023-09-26T13:06:48.301Z",
+        "updated_at": "2023-09-26T12:43:11.727Z",
+        "query_id": "04c05f8f-51e2-4c60-af5d-74b791991694",
+        "topic_id": "9a77c45e-02ee-4504-90f3-3ec078e347a2"
+      },
+      {
+        "id": "87eb6b76-4924-44ed-ad84-ba7310f4dece",
+        "created_at": "2023-09-26T02:14:51.717Z",
+        "updated_at": "2023-09-25T18:37:46.264Z",
+        "query_id": "11db63fa-b3fb-4407-bf3c-f04aaf01f7aa",
+        "topic_id": "9a77c45e-02ee-4504-90f3-3ec078e347a2"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fc2edcff-0512-4af9-93cb-ede9f9e618e8",
+        "email": "Hattie.Rolfson92@roq.tech",
+        "firstName": "Judd",
+        "lastName": "Weissnat",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1143.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "62966431-fc2b-43cc-b471-111a5cbc4856",
+        "email": "Rowan.Wunsch97@roq.tech",
+        "firstName": "Alice",
+        "lastName": "Kuhlman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72996339",
+        "tenantId": null
+      },
+      {
+        "reference": "e3cc8574-9762-40af-b723-21800fa765ea",
+        "email": "Morris1@roq.tech",
+        "firstName": "Enrico",
+        "lastName": "Klocko",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/757.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "46125369-3093-444d-9e0c-664afeacfb00",
+        "email": "Josiah_Moore@roq.tech",
+        "firstName": "Yesenia",
+        "lastName": "Marvin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1230.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "da8629fd-aa6f-41de-8f0e-397a0386a631",
+        "email": "Chaim92@roq.tech",
+        "firstName": "Audie",
+        "lastName": "Wolff",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44769354",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "topic": [
+      {
+        "id": "f0d6fb18-2e0a-4590-8b9c-666cfa321632",
+        "name": "Technology",
+        "description": "Exploring the latest tech trends",
+        "created_at": "2023-09-25T20:07:17.292Z",
+        "updated_at": "2023-09-26T08:56:42.644Z"
+      },
+      {
+        "id": "6b3ad658-cc1c-4fec-9e01-f0bd119ba84e",
+        "name": "Sports",
+        "description": "Covering sports events worldwide",
+        "created_at": "2023-09-25T14:05:17.368Z",
+        "updated_at": "2023-09-25T15:56:52.153Z"
+      },
+      {
+        "id": "4e1968d3-4f69-4cf2-b4c0-23f4cffa9d3c",
+        "name": "Food",
+        "description": "Delicious recipes from around the world",
+        "created_at": "2023-09-26T02:02:03.812Z",
+        "updated_at": "2023-09-25T17:44:57.376Z"
+      },
+      {
+        "id": "15d00eed-71a6-48fa-b848-aaacd3d3a164",
+        "name": "Travel",
+        "description": "Discovering new travel destinations",
+        "created_at": "2023-09-26T04:03:17.526Z",
+        "updated_at": "2023-09-26T12:08:19.714Z"
+      },
+      {
+        "id": "f79862e5-f092-41f2-8c32-24f5104dd116",
+        "name": "Music",
+        "description": "Exploring different music genres",
+        "created_at": "2023-09-26T11:19:20.876Z",
+        "updated_at": "2023-09-26T12:28:14.350Z"
+      }
+    ],
+    "query": [
+      {
+        "id": "034bf78d-c495-45a3-a224-25409127ab4b",
+        "content": "How to fix a broken phone screen?",
+        "created_at": "2023-09-26T05:44:54.419Z",
+        "updated_at": "2023-09-26T00:50:36.998Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68113e20-7079-41b7-a57b-a47a17069eb6",
+        "content": "Best exercises for weight loss",
+        "created_at": "2023-09-26T04:32:12.156Z",
+        "updated_at": "2023-09-26T07:44:30.521Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d25fcc9c-7e00-45be-8d3b-3f1618d90f77",
+        "content": "Quick and easy dinner recipes",
+        "created_at": "2023-09-26T12:45:35.972Z",
+        "updated_at": "2023-09-25T19:17:19.130Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e76ada86-13e7-461e-b4d2-2262cab25018",
+        "content": "Top travel destinations in Europe",
+        "created_at": "2023-09-26T10:55:33.582Z",
+        "updated_at": "2023-09-25T15:53:30.541Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "81af5475-ed53-4d03-ae87-2e85a8b81dc2",
+        "content": "Best rock bands of all time",
+        "created_at": "2023-09-26T11:17:11.236Z",
+        "updated_at": "2023-09-26T09:37:15.302Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "response": [
+      {
+        "id": "f3598e40-14b9-4ddb-bcdb-0277732bb706",
+        "content": "Here's a step-by-step guide to fix your phone screen",
+        "created_at": "2023-09-26T01:42:04.938Z",
+        "updated_at": "2023-09-26T06:24:49.674Z",
+        "query_id": "e76ada86-13e7-461e-b4d2-2262cab25018"
+      },
+      {
+        "id": "8296262a-a608-493b-8a58-afd6b9323690",
+        "content": "Try these exercises for effective weight loss",
+        "created_at": "2023-09-26T03:17:31.916Z",
+        "updated_at": "2023-09-25T17:19:29.123Z",
+        "query_id": "68113e20-7079-41b7-a57b-a47a17069eb6"
+      },
+      {
+        "id": "21a12df3-595e-465b-99b2-0e1f47f8e97e",
+        "content": "Check out these delicious dinner recipes",
+        "created_at": "2023-09-26T05:05:07.885Z",
+        "updated_at": "2023-09-26T00:36:18.907Z",
+        "query_id": "81af5475-ed53-4d03-ae87-2e85a8b81dc2"
+      },
+      {
+        "id": "ef5e8638-fca5-44cd-9ba1-769a49e9a085",
+        "content": "Explore these amazing travel destinations in Europe",
+        "created_at": "2023-09-25T16:09:03.885Z",
+        "updated_at": "2023-09-26T12:15:18.177Z",
+        "query_id": "81af5475-ed53-4d03-ae87-2e85a8b81dc2"
+      },
+      {
+        "id": "89af3559-5947-4a0c-8c84-4ae411b1c288",
+        "content": "Listen to the best rock bands of all time",
+        "created_at": "2023-09-25T18:46:49.036Z",
+        "updated_at": "2023-09-26T11:22:30.354Z",
+        "query_id": "68113e20-7079-41b7-a57b-a47a17069eb6"
+      }
+    ],
+    "query_topic": [
+      {
+        "id": "23666b44-4093-4aac-9bf7-b1609a2f5857",
+        "created_at": "2023-09-25T22:06:48.967Z",
+        "updated_at": "2023-09-25T19:00:53.498Z",
+        "query_id": "68113e20-7079-41b7-a57b-a47a17069eb6",
+        "topic_id": "f79862e5-f092-41f2-8c32-24f5104dd116"
+      },
+      {
+        "id": "9bde7f32-86e6-4e18-aedd-4c9be758cca8",
+        "created_at": "2023-09-25T21:22:37.529Z",
+        "updated_at": "2023-09-25T19:42:18.356Z",
+        "query_id": "68113e20-7079-41b7-a57b-a47a17069eb6",
+        "topic_id": "4e1968d3-4f69-4cf2-b4c0-23f4cffa9d3c"
+      },
+      {
+        "id": "87f6e895-4a94-43ec-adf1-a712e403262d",
+        "created_at": "2023-09-25T17:08:14.709Z",
+        "updated_at": "2023-09-25T21:51:03.160Z",
+        "query_id": "81af5475-ed53-4d03-ae87-2e85a8b81dc2",
+        "topic_id": "6b3ad658-cc1c-4fec-9e01-f0bd119ba84e"
+      },
+      {
+        "id": "b38de8eb-dd1b-4172-9ed1-d26e6cec4b62",
+        "created_at": "2023-09-26T07:18:25.520Z",
+        "updated_at": "2023-09-26T01:07:20.589Z",
+        "query_id": "68113e20-7079-41b7-a57b-a47a17069eb6",
+        "topic_id": "f0d6fb18-2e0a-4590-8b9c-666cfa321632"
+      },
+      {
+        "id": "fd5b483c-ac4c-40ab-ac8b-11ebc4a672cc",
+        "created_at": "2023-09-25T19:01:58.733Z",
+        "updated_at": "2023-09-25T18:17:28.474Z",
+        "query_id": "68113e20-7079-41b7-a57b-a47a17069eb6",
+        "topic_id": "f79862e5-f092-41f2-8c32-24f5104dd116"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "120cc2ef-55ce-49c8-bafb-772b1603caad",
+        "email": "Matteo57@roq.tech",
+        "firstName": "Alisha",
+        "lastName": "Jaskolski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48197681",
+        "tenantId": null
+      },
+      {
+        "reference": "3871e250-764b-4a9d-a57a-ed66061b108c",
+        "email": "Madisyn78@roq.tech",
+        "firstName": "Melvin",
+        "lastName": "Raynor",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3229648",
+        "tenantId": null
+      },
+      {
+        "reference": "a68dc21a-8fb7-4e08-b063-b3c9fc4f6a4e",
+        "email": "Rosemarie64@roq.tech",
+        "firstName": "Randall",
+        "lastName": "Haag",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23068333",
+        "tenantId": null
+      },
+      {
+        "reference": "d5b82ce3-7f3c-446e-80eb-8e9423d0d2e3",
+        "email": "Pierce_White33@roq.tech",
+        "firstName": "Aglae",
+        "lastName": "Simonis",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/697.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d42b9c76-9188-42dc-aee3-2000e45fe3a8",
+        "email": "Tiana_Larkin53@roq.tech",
+        "firstName": "Lucas",
+        "lastName": "Hilpert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/194.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "topic": [
+      {
+        "id": "9a2bf297-35db-440a-a935-6a804e1a99f8",
+        "name": "Technology",
+        "description": "Explore the latest advancements in technology",
+        "created_at": "2023-09-26T02:06:49.346Z",
+        "updated_at": "2023-09-25T15:47:52.915Z"
+      },
+      {
+        "id": "5963f706-9e9e-44ad-9190-3685dd95a5a7",
+        "name": "Science",
+        "description": "Discover the wonders of science",
+        "created_at": "2023-09-26T10:55:59.449Z",
+        "updated_at": "2023-09-26T05:29:45.253Z"
+      },
+      {
+        "id": "81e15336-78aa-43b7-8314-46ae7b082da2",
+        "name": "Sports",
+        "description": "Stay updated with the latest sports news",
+        "created_at": "2023-09-25T14:13:13.668Z",
+        "updated_at": "2023-09-25T13:56:57.705Z"
+      },
+      {
+        "id": "fad7276a-0f9e-42c7-9094-e012a139da64",
+        "name": "Art",
+        "description": "Appreciate the beauty of art",
+        "created_at": "2023-09-26T01:17:20.816Z",
+        "updated_at": "2023-09-25T22:55:03.565Z"
+      },
+      {
+        "id": "d3969d4b-0df8-418f-95e2-9b99dc25e06c",
+        "name": "Music",
+        "description": "Enjoy the rhythm of music",
+        "created_at": "2023-09-25T16:14:31.122Z",
+        "updated_at": "2023-09-25T18:32:20.193Z"
+      }
+    ],
+    "query": [
+      {
+        "id": "e4b4033d-5cdd-46af-9d67-f5c78bd5adb6",
+        "content": "How to solve a Rubik's Cube?",
+        "created_at": "2023-09-25T18:44:53.785Z",
+        "updated_at": "2023-09-25T13:55:49.515Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "255c2c31-eb27-405b-8ea9-5f594c6e3651",
+        "content": "What is the capital of France?",
+        "created_at": "2023-09-26T00:31:38.746Z",
+        "updated_at": "2023-09-25T22:56:20.070Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "614d71ac-d843-4138-a2b5-6cc325bf6c3a",
+        "content": "How to make a delicious chocolate cake?",
+        "created_at": "2023-09-26T08:20:27.294Z",
+        "updated_at": "2023-09-26T04:48:28.326Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "529eef51-fd37-4690-bf57-b8d2aa73b030",
+        "content": "Why is the sky blue?",
+        "created_at": "2023-09-25T21:48:01.029Z",
+        "updated_at": "2023-09-26T05:40:36.401Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8097f11-c512-4b9a-ba54-7dbca67a5ff7",
+        "content": "What are the benefits of meditation?",
+        "created_at": "2023-09-25T16:14:03.953Z",
+        "updated_at": "2023-09-26T05:35:20.381Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "response": [
+      {
+        "id": "ac4b0df5-e834-475f-96d4-15581e926e8e",
+        "content": "Here's a step-by-step guide to solve a Rubik's Cube",
+        "created_at": "2023-09-25T20:04:54.081Z",
+        "updated_at": "2023-09-25T19:23:07.091Z",
+        "query_id": "255c2c31-eb27-405b-8ea9-5f594c6e3651"
+      },
+      {
+        "id": "cab54fb2-2d45-436f-8f49-c5efcc079933",
+        "content": "The capital of France is Paris",
+        "created_at": "2023-09-26T07:34:43.820Z",
+        "updated_at": "2023-09-26T06:55:20.515Z",
+        "query_id": "529eef51-fd37-4690-bf57-b8d2aa73b030"
+      },
+      {
+        "id": "75de46c4-85a6-4341-a081-b03c46d771a1",
+        "content": "Try this amazing chocolate cake recipe",
+        "created_at": "2023-09-25T19:48:27.784Z",
+        "updated_at": "2023-09-26T08:47:02.510Z",
+        "query_id": "529eef51-fd37-4690-bf57-b8d2aa73b030"
+      },
+      {
+        "id": "51a4f56b-2dd7-4f49-b78f-eb178e135f8c",
+        "content": "The sky appears blue due to the scattering of sunlight",
+        "created_at": "2023-09-26T11:42:17.028Z",
+        "updated_at": "2023-09-26T00:13:04.544Z",
+        "query_id": "f8097f11-c512-4b9a-ba54-7dbca67a5ff7"
+      },
+      {
+        "id": "c59a9ddb-7741-414f-8f63-28914f3c565b",
+        "content": "Meditation has numerous health benefits",
+        "created_at": "2023-09-25T17:38:32.860Z",
+        "updated_at": "2023-09-25T20:15:33.938Z",
+        "query_id": "f8097f11-c512-4b9a-ba54-7dbca67a5ff7"
+      }
+    ],
+    "query_topic": [
+      {
+        "id": "c4ed2486-c4c7-4758-9094-bf6615f72b34",
+        "created_at": "2023-09-26T11:37:18.757Z",
+        "updated_at": "2023-09-25T14:08:06.394Z",
+        "query_id": "255c2c31-eb27-405b-8ea9-5f594c6e3651",
+        "topic_id": "fad7276a-0f9e-42c7-9094-e012a139da64"
+      },
+      {
+        "id": "efbb0ab6-11df-456c-abff-d12fb31a02f1",
+        "created_at": "2023-09-26T10:21:00.485Z",
+        "updated_at": "2023-09-26T06:30:45.558Z",
+        "query_id": "e4b4033d-5cdd-46af-9d67-f5c78bd5adb6",
+        "topic_id": "5963f706-9e9e-44ad-9190-3685dd95a5a7"
+      },
+      {
+        "id": "1f980875-1e65-4534-a0a1-2b46b9b6c389",
+        "created_at": "2023-09-25T21:02:10.462Z",
+        "updated_at": "2023-09-26T07:31:55.844Z",
+        "query_id": "614d71ac-d843-4138-a2b5-6cc325bf6c3a",
+        "topic_id": "d3969d4b-0df8-418f-95e2-9b99dc25e06c"
+      },
+      {
+        "id": "9b7f07ae-cb7e-4219-ac96-2ab7f9cdeca5",
+        "created_at": "2023-09-26T05:19:06.408Z",
+        "updated_at": "2023-09-26T07:21:11.836Z",
+        "query_id": "e4b4033d-5cdd-46af-9d67-f5c78bd5adb6",
+        "topic_id": "81e15336-78aa-43b7-8314-46ae7b082da2"
+      },
+      {
+        "id": "e20c29bf-a2bd-4c1e-b96b-742b85b2b74d",
+        "created_at": "2023-09-25T15:04:20.152Z",
+        "updated_at": "2023-09-25T18:22:39.810Z",
+        "query_id": "529eef51-fd37-4690-bf57-b8d2aa73b030",
+        "topic_id": "fad7276a-0f9e-42c7-9094-e012a139da64"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "498a025a-23f1-4613-b5ae-ae09e6e86d55",
+        "email": "Trent20@roq.tech",
+        "firstName": "Sean",
+        "lastName": "Lowe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53903790",
+        "tenantId": null
+      },
+      {
+        "reference": "93f3e67c-b794-4360-9a95-2cea0201264d",
+        "email": "Kristofer.Swift91@roq.tech",
+        "firstName": "Benjamin",
+        "lastName": "Ratke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1165.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7f622df7-c2a6-4034-92d4-a8cd14092d09",
+        "email": "Gregory28@roq.tech",
+        "firstName": "Evans",
+        "lastName": "Lockman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/759.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3cc34c03-6877-4d04-920b-c69f656a6a1f",
+        "email": "Elvera_Price70@roq.tech",
+        "firstName": "Alyson",
+        "lastName": "Bahringer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/508.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "952712cf-a705-4ef3-b5f0-98a1730f51ca",
+        "email": "Adele.Kuhn@roq.tech",
+        "firstName": "Cathrine",
+        "lastName": "Mayer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32324285",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "topic": [
+      {
+        "id": "aa410772-b894-4b18-9a43-b539ddd5474e",
+        "name": "Technology",
+        "description": "Exploring the latest advancements in technology",
+        "created_at": "2023-09-25T17:32:30.989Z",
+        "updated_at": "2023-09-26T06:54:39.015Z"
+      },
+      {
+        "id": "2ac781aa-a0fa-4314-b6a0-3a7c73244657",
+        "name": "Sports",
+        "description": "Covering the latest sports events and news",
+        "created_at": "2023-09-25T21:59:38.934Z",
+        "updated_at": "2023-09-26T01:01:05.747Z"
+      },
+      {
+        "id": "591a6db7-78c8-4be9-b08f-a7d7a01c773e",
+        "name": "Travel",
+        "description": "Discovering new travel destinations",
+        "created_at": "2023-09-25T18:36:41.231Z",
+        "updated_at": "2023-09-26T03:46:00.287Z"
+      },
+      {
+        "id": "ead90405-8bd2-4e54-9dda-54b920fbf51e",
+        "name": "Food",
+        "description": "Exploring the world of culinary delights",
+        "created_at": "2023-09-26T08:00:14.007Z",
+        "updated_at": "2023-09-25T21:11:36.194Z"
+      },
+      {
+        "id": "1ab88737-cd22-40d9-9a86-e166719001f2",
+        "name": "Fashion",
+        "description": "Showcasing the latest fashion trends",
+        "created_at": "2023-09-25T23:51:45.466Z",
+        "updated_at": "2023-09-26T03:35:49.804Z"
+      }
+    ],
+    "query": [
+      {
+        "id": "3113b029-c9c6-4f30-a512-31fe41a7abb9",
+        "content": "How to improve productivity?",
+        "created_at": "2023-09-25T13:41:36.904Z",
+        "updated_at": "2023-09-26T01:01:00.598Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2198b85-dc37-41da-a9a3-bca93fdb1268",
+        "content": "What are the benefits of exercise?",
+        "created_at": "2023-09-26T12:37:05.935Z",
+        "updated_at": "2023-09-25T19:29:02.293Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0965bd1b-4eed-48c3-8c29-4ffb70f8f760",
+        "content": "Best travel destinations in Europe",
+        "created_at": "2023-09-26T06:58:20.789Z",
+        "updated_at": "2023-09-25T23:37:02.224Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6afa09fb-ef9e-4a24-82d5-35270fe6e431",
+        "content": "Delicious recipes for pasta dishes",
+        "created_at": "2023-09-26T01:09:54.378Z",
+        "updated_at": "2023-09-26T11:34:27.059Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b19c9228-9b51-4dbd-9caf-a6fe722aa270",
+        "content": "Latest fashion trends for summer",
+        "created_at": "2023-09-26T10:56:17.937Z",
+        "updated_at": "2023-09-25T20:57:50.197Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "response": [
+      {
+        "id": "1ec189ce-cc4c-47d6-9587-efa7f19edc8c",
+        "content": "Here are some tips to improve productivity",
+        "created_at": "2023-09-26T03:47:16.939Z",
+        "updated_at": "2023-09-26T04:08:06.460Z",
+        "query_id": "3113b029-c9c6-4f30-a512-31fe41a7abb9"
+      },
+      {
+        "id": "47fb4a66-3c08-4f18-92a3-4cb98e841d1a",
+        "content": "Exercise has numerous health benefits",
+        "created_at": "2023-09-25T15:26:18.463Z",
+        "updated_at": "2023-09-25T22:04:02.264Z",
+        "query_id": "3113b029-c9c6-4f30-a512-31fe41a7abb9"
+      },
+      {
+        "id": "cb5a504f-35f8-4eee-8729-b45fb130cc30",
+        "content": "Top travel destinations in Europe include Paris, Rome, and Barcelona",
+        "created_at": "2023-09-25T15:42:47.514Z",
+        "updated_at": "2023-09-25T18:15:48.330Z",
+        "query_id": "3113b029-c9c6-4f30-a512-31fe41a7abb9"
+      },
+      {
+        "id": "133e358a-bbcc-4251-97b7-0973a09d4eaa",
+        "content": "Try these mouthwatering pasta recipes",
+        "created_at": "2023-09-25T19:10:29.185Z",
+        "updated_at": "2023-09-26T08:29:22.361Z",
+        "query_id": "3113b029-c9c6-4f30-a512-31fe41a7abb9"
+      },
+      {
+        "id": "ea57c30a-79ef-44f2-bc14-a39a605e2b94",
+        "content": "Check out the latest fashion trends for summer",
+        "created_at": "2023-09-26T07:21:03.422Z",
+        "updated_at": "2023-09-26T06:13:16.787Z",
+        "query_id": "6afa09fb-ef9e-4a24-82d5-35270fe6e431"
+      }
+    ],
+    "query_topic": [
+      {
+        "id": "ca6d945a-a83b-4ff1-8527-75b69cd0a317",
+        "created_at": "2023-09-26T13:23:51.999Z",
+        "updated_at": "2023-09-26T10:00:16.868Z",
+        "query_id": "6afa09fb-ef9e-4a24-82d5-35270fe6e431",
+        "topic_id": "1ab88737-cd22-40d9-9a86-e166719001f2"
+      },
+      {
+        "id": "a9eee20a-48d0-45a0-87cd-bf45be94d40b",
+        "created_at": "2023-09-25T17:52:01.348Z",
+        "updated_at": "2023-09-26T11:05:45.791Z",
+        "query_id": "0965bd1b-4eed-48c3-8c29-4ffb70f8f760",
+        "topic_id": "2ac781aa-a0fa-4314-b6a0-3a7c73244657"
+      },
+      {
+        "id": "60f790c1-700e-4762-af28-f9e991614cfa",
+        "created_at": "2023-09-25T14:19:01.091Z",
+        "updated_at": "2023-09-26T02:40:55.741Z",
+        "query_id": "b2198b85-dc37-41da-a9a3-bca93fdb1268",
+        "topic_id": "591a6db7-78c8-4be9-b08f-a7d7a01c773e"
+      },
+      {
+        "id": "c2e8ed42-8e06-4716-9112-9a5f055e84b0",
+        "created_at": "2023-09-26T10:14:55.936Z",
+        "updated_at": "2023-09-26T09:30:40.070Z",
+        "query_id": "3113b029-c9c6-4f30-a512-31fe41a7abb9",
+        "topic_id": "2ac781aa-a0fa-4314-b6a0-3a7c73244657"
+      },
+      {
+        "id": "e90f660e-17f9-44c1-9f87-a1c9c7dfca19",
+        "created_at": "2023-09-25T14:59:18.870Z",
+        "updated_at": "2023-09-25T15:47:06.060Z",
+        "query_id": "6afa09fb-ef9e-4a24-82d5-35270fe6e431",
+        "topic_id": "ead90405-8bd2-4e54-9dda-54b920fbf51e"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "91c8cca2-ec42-4211-8b44-3d493f637b81",
+        "email": "Neha_Hartmann4@roq.tech",
+        "firstName": "Wilson",
+        "lastName": "Balistreri",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81490336",
+        "tenantId": null
+      },
+      {
+        "reference": "9d17db58-36d9-4195-8818-72ba514ac05d",
+        "email": "Isabelle2@roq.tech",
+        "firstName": "Jany",
+        "lastName": "Rogahn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1149.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a8e31aef-8fd5-4890-8b28-df5fb9bd7caf",
+        "email": "Luigi.Smith95@roq.tech",
+        "firstName": "Myra",
+        "lastName": "Zboncak",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/638.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "47785626-83d3-4f0c-874c-8e09c45eae7c",
+        "email": "Lori40@roq.tech",
+        "firstName": "Maegan",
+        "lastName": "Blanda",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/969.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b0b8b390-9547-44e7-9729-bc6e1918b68d",
+        "email": "Declan76@roq.tech",
+        "firstName": "Sterling",
+        "lastName": "D'Amore",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/683.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "topic": [
+      {
+        "id": "525c9a94-b633-42fb-9afa-991cd0e716fe",
+        "name": "Technology",
+        "description": "Exploring the latest tech trends",
+        "created_at": "2023-09-26T06:54:24.492Z",
+        "updated_at": "2023-09-25T20:37:17.546Z"
+      },
+      {
+        "id": "c134ceb1-0f0a-4b14-aa31-8db4d80c0254",
+        "name": "Sports",
+        "description": "Covering sports events worldwide",
+        "created_at": "2023-09-26T08:56:25.733Z",
+        "updated_at": "2023-09-26T05:07:56.029Z"
+      },
+      {
+        "id": "d5e99776-392c-452c-bc41-8392da2355f7",
+        "name": "Food",
+        "description": "Delicious recipes and cooking tips",
+        "created_at": "2023-09-26T00:04:49.627Z",
+        "updated_at": "2023-09-25T21:02:26.855Z"
+      },
+      {
+        "id": "457ef72e-5061-46f6-8615-0037aa4c7e47",
+        "name": "Travel",
+        "description": "Discovering new travel destinations",
+        "created_at": "2023-09-26T06:26:30.807Z",
+        "updated_at": "2023-09-26T08:47:28.750Z"
+      },
+      {
+        "id": "e6762924-ddb8-411b-ac5c-9fc12f8ddca9",
+        "name": "Music",
+        "description": "Exploring different music genres",
+        "created_at": "2023-09-26T02:12:35.839Z",
+        "updated_at": "2023-09-26T04:09:49.088Z"
+      }
+    ],
+    "query": [
+      {
+        "id": "193e1762-29b9-4709-a717-4e16b6adb511",
+        "content": "How to fix a broken phone screen?",
+        "created_at": "2023-09-26T12:04:04.373Z",
+        "updated_at": "2023-09-26T06:16:11.402Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e0edac32-0b2b-4a00-a4c3-298fa628ce8d",
+        "content": "Best exercises for weight loss",
+        "created_at": "2023-09-26T07:39:51.392Z",
+        "updated_at": "2023-09-25T13:52:49.566Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f5cb1f1-d582-45d7-bf49-cb42b63c0475",
+        "content": "Quick and easy dinner recipes",
+        "created_at": "2023-09-26T05:31:15.527Z",
+        "updated_at": "2023-09-26T09:20:56.579Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f3cd43f-baee-41a5-b77c-de0c1a8707c7",
+        "content": "Top travel destinations in Europe",
+        "created_at": "2023-09-26T05:34:26.742Z",
+        "updated_at": "2023-09-25T22:59:46.955Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e1e4ae38-57d7-48de-b519-545839d5efa3",
+        "content": "Popular music festivals in the summer",
+        "created_at": "2023-09-25T17:42:04.488Z",
+        "updated_at": "2023-09-26T08:46:41.313Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "response": [
+      {
+        "id": "3fcab5d7-6b14-4eeb-bb61-fcbdcab60395",
+        "content": "You can try replacing the screen yourself using a repair kit.",
+        "created_at": "2023-09-26T06:19:38.444Z",
+        "updated_at": "2023-09-25T18:59:39.162Z",
+        "query_id": "3f5cb1f1-d582-45d7-bf49-cb42b63c0475"
+      },
+      {
+        "id": "61335043-0a78-4611-a3e3-62e0bb3a4bc3",
+        "content": "Cardio exercises like running and cycling are great for weight loss.",
+        "created_at": "2023-09-26T09:37:30.384Z",
+        "updated_at": "2023-09-25T14:28:35.026Z",
+        "query_id": "e0edac32-0b2b-4a00-a4c3-298fa628ce8d"
+      },
+      {
+        "id": "7d7eb6a4-dd3f-4721-a8af-64a7dc993725",
+        "content": "Here's a simple recipe for a tasty pasta dish.",
+        "created_at": "2023-09-25T16:21:04.969Z",
+        "updated_at": "2023-09-26T07:19:35.847Z",
+        "query_id": "e0edac32-0b2b-4a00-a4c3-298fa628ce8d"
+      },
+      {
+        "id": "da7668b1-a80e-4d6d-bb8a-9ea569f5012e",
+        "content": "Paris and Rome are must-visit cities in Europe.",
+        "created_at": "2023-09-26T00:03:28.108Z",
+        "updated_at": "2023-09-26T11:20:07.454Z",
+        "query_id": "e1e4ae38-57d7-48de-b519-545839d5efa3"
+      },
+      {
+        "id": "42a8bd72-bd84-4c15-bc1d-655527bc43d8",
+        "content": "Coachella and Tomorrowland are popular music festivals.",
+        "created_at": "2023-09-26T06:36:45.675Z",
+        "updated_at": "2023-09-26T08:45:56.830Z",
+        "query_id": "e0edac32-0b2b-4a00-a4c3-298fa628ce8d"
+      }
+    ],
+    "query_topic": [
+      {
+        "id": "c2083a10-023d-445d-b4ba-0dfb72b52358",
+        "created_at": "2023-09-25T23:02:00.312Z",
+        "updated_at": "2023-09-25T23:04:30.404Z",
+        "query_id": "e1e4ae38-57d7-48de-b519-545839d5efa3",
+        "topic_id": "c134ceb1-0f0a-4b14-aa31-8db4d80c0254"
+      },
+      {
+        "id": "f3802aec-5232-4e04-9975-b6984062f6b1",
+        "created_at": "2023-09-26T04:44:50.088Z",
+        "updated_at": "2023-09-25T15:45:52.898Z",
+        "query_id": "193e1762-29b9-4709-a717-4e16b6adb511",
+        "topic_id": "457ef72e-5061-46f6-8615-0037aa4c7e47"
+      },
+      {
+        "id": "a26d2faf-b484-42ce-8897-b4bd402948d3",
+        "created_at": "2023-09-26T04:31:28.841Z",
+        "updated_at": "2023-09-26T10:23:37.585Z",
+        "query_id": "5f3cd43f-baee-41a5-b77c-de0c1a8707c7",
+        "topic_id": "525c9a94-b633-42fb-9afa-991cd0e716fe"
+      },
+      {
+        "id": "901f6558-43c9-47ba-8e06-a258577278be",
+        "created_at": "2023-09-25T16:27:20.487Z",
+        "updated_at": "2023-09-25T21:16:17.755Z",
+        "query_id": "193e1762-29b9-4709-a717-4e16b6adb511",
+        "topic_id": "d5e99776-392c-452c-bc41-8392da2355f7"
+      },
+      {
+        "id": "c18502e1-d8f9-45d4-aced-77f8670e747f",
+        "created_at": "2023-09-26T10:36:21.447Z",
+        "updated_at": "2023-09-26T02:41:41.826Z",
+        "query_id": "193e1762-29b9-4709-a717-4e16b6adb511",
+        "topic_id": "525c9a94-b633-42fb-9afa-991cd0e716fe"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "29721a9c-95aa-435c-af57-d0cdd9d59632",
+        "email": "Paolo_Klocko@roq.tech",
+        "firstName": "Ali",
+        "lastName": "Tromp",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2808723",
+        "tenantId": null
+      },
+      {
+        "reference": "8d72200f-53fe-4a4b-a6c8-fdbed0a60434",
+        "email": "Stewart.Toy24@roq.tech",
+        "firstName": "Ivory",
+        "lastName": "Wolf",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1170.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "15f62870-407b-45a5-b2c8-0c25c396ec83",
+        "email": "Alysa_Schmitt15@roq.tech",
+        "firstName": "Juliana",
+        "lastName": "Durgan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31673191",
+        "tenantId": null
+      },
+      {
+        "reference": "f6f09566-dadc-4fac-9464-cc02f1cb779c",
+        "email": "Werner.Prosacco69@roq.tech",
+        "firstName": "Doris",
+        "lastName": "McKenzie",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29910880",
+        "tenantId": null
+      },
+      {
+        "reference": "4ce596fe-74fd-4002-a6dd-a3bfd0b5574a",
+        "email": "Rico91@roq.tech",
+        "firstName": "Hettie",
+        "lastName": "Baumbach",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1241.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "topic": [
+      {
+        "id": "3b793911-0f25-4bb2-9d7c-986f2b06bcf1",
+        "name": "Technology",
+        "description": "Exploring the latest advancements in technology",
+        "created_at": "2023-09-26T09:00:14.805Z",
+        "updated_at": "2023-09-25T19:21:20.190Z"
+      },
+      {
+        "id": "a4a9d3a2-c814-4b39-a94c-ab702a602470",
+        "name": "Sports",
+        "description": "Covering the latest sports events",
+        "created_at": "2023-09-25T17:48:44.241Z",
+        "updated_at": "2023-09-25T19:42:59.409Z"
+      },
+      {
+        "id": "545cca87-a160-4229-bf41-456144072e81",
+        "name": "Food",
+        "description": "Discovering new and delicious recipes",
+        "created_at": "2023-09-26T12:31:48.248Z",
+        "updated_at": "2023-09-25T18:15:38.702Z"
+      },
+      {
+        "id": "524975ee-b650-4b9a-a187-28919f7a3be7",
+        "name": "Travel",
+        "description": "Sharing travel experiences and recommendations",
+        "created_at": "2023-09-25T14:18:17.919Z",
+        "updated_at": "2023-09-26T13:02:51.391Z"
+      },
+      {
+        "id": "a6680ef7-c2f4-406f-8267-c2b23b9f48c4",
+        "name": "Music",
+        "description": "Appreciating various genres of music",
+        "created_at": "2023-09-26T12:25:50.528Z",
+        "updated_at": "2023-09-26T06:59:41.522Z"
+      }
+    ],
+    "query": [
+      {
+        "id": "463c166f-ea20-481c-85e9-2276a385d519",
+        "content": "How to fix a broken phone screen?",
+        "created_at": "2023-09-25T20:06:26.180Z",
+        "updated_at": "2023-09-26T13:12:01.419Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca21fa0c-0fe2-4588-b5fa-03256dc8eb1e",
+        "content": "Best exercises for weight loss",
+        "created_at": "2023-09-25T15:17:33.652Z",
+        "updated_at": "2023-09-26T03:45:07.439Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "514cda23-2e35-4430-b488-40df52e501c4",
+        "content": "Quick and easy dinner ideas",
+        "created_at": "2023-09-26T11:38:59.675Z",
+        "updated_at": "2023-09-26T07:36:04.206Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3239236-9d30-4327-b293-c312e48065d3",
+        "content": "Top travel destinations in Europe",
+        "created_at": "2023-09-25T21:03:50.826Z",
+        "updated_at": "2023-09-26T07:44:02.092Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dae549b8-9cfb-4086-a7b1-0d1af4f88d83",
+        "content": "Most popular songs of all time",
+        "created_at": "2023-09-26T11:17:22.270Z",
+        "updated_at": "2023-09-25T16:05:14.456Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "response": [
+      {
+        "id": "5162c107-ef6a-44c0-905e-a6e3e7790d8f",
+        "content": "Here are some steps to fix a broken phone screen:",
+        "created_at": "2023-09-25T13:37:57.398Z",
+        "updated_at": "2023-09-25T21:27:59.568Z",
+        "query_id": "ca21fa0c-0fe2-4588-b5fa-03256dc8eb1e"
+      },
+      {
+        "id": "ed67d860-239e-4330-8b02-b66f51b0635d",
+        "content": "Here are some recommended exercises for weight loss:",
+        "created_at": "2023-09-26T09:21:36.140Z",
+        "updated_at": "2023-09-25T14:54:03.293Z",
+        "query_id": "514cda23-2e35-4430-b488-40df52e501c4"
+      },
+      {
+        "id": "04c4b6f7-a99a-4b48-837b-0dbfa87351e4",
+        "content": "Here are some quick and easy dinner ideas:",
+        "created_at": "2023-09-26T03:57:28.459Z",
+        "updated_at": "2023-09-26T00:19:17.932Z",
+        "query_id": "463c166f-ea20-481c-85e9-2276a385d519"
+      },
+      {
+        "id": "9dd0aea3-994d-44e3-9771-a23842aad093",
+        "content": "Here are some top travel destinations in Europe:",
+        "created_at": "2023-09-26T08:07:53.984Z",
+        "updated_at": "2023-09-26T10:13:06.510Z",
+        "query_id": "514cda23-2e35-4430-b488-40df52e501c4"
+      },
+      {
+        "id": "78783540-f32b-498b-908c-2b6e713a87f0",
+        "content": "Here are some of the most popular songs of all time:",
+        "created_at": "2023-09-26T11:35:10.787Z",
+        "updated_at": "2023-09-26T07:54:49.934Z",
+        "query_id": "d3239236-9d30-4327-b293-c312e48065d3"
+      }
+    ],
+    "query_topic": [
+      {
+        "id": "366e91b3-58a7-4283-91b6-adc28bd12135",
+        "created_at": "2023-09-26T01:03:23.696Z",
+        "updated_at": "2023-09-25T20:40:59.097Z",
+        "query_id": "dae549b8-9cfb-4086-a7b1-0d1af4f88d83",
+        "topic_id": "3b793911-0f25-4bb2-9d7c-986f2b06bcf1"
+      },
+      {
+        "id": "a27a22aa-002a-4934-abab-f702dddecb7c",
+        "created_at": "2023-09-25T18:02:17.289Z",
+        "updated_at": "2023-09-26T05:11:37.122Z",
+        "query_id": "d3239236-9d30-4327-b293-c312e48065d3",
+        "topic_id": "a6680ef7-c2f4-406f-8267-c2b23b9f48c4"
+      },
+      {
+        "id": "7bb7122d-b9c0-4664-b9d5-606d9fcf2467",
+        "created_at": "2023-09-25T21:03:19.021Z",
+        "updated_at": "2023-09-25T16:14:12.383Z",
+        "query_id": "514cda23-2e35-4430-b488-40df52e501c4",
+        "topic_id": "524975ee-b650-4b9a-a187-28919f7a3be7"
+      },
+      {
+        "id": "eaca27fc-70de-4a74-b419-0fc66b822610",
+        "created_at": "2023-09-26T10:23:50.582Z",
+        "updated_at": "2023-09-25T19:37:38.274Z",
+        "query_id": "514cda23-2e35-4430-b488-40df52e501c4",
+        "topic_id": "524975ee-b650-4b9a-a187-28919f7a3be7"
+      },
+      {
+        "id": "be749ec9-795d-42ed-a573-9d5a869b3906",
+        "created_at": "2023-09-26T04:46:03.725Z",
+        "updated_at": "2023-09-26T09:53:14.628Z",
+        "query_id": "dae549b8-9cfb-4086-a7b1-0d1af4f88d83",
+        "topic_id": "545cca87-a160-4229-bf41-456144072e81"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8d08441b-8e50-4546-8c99-dde6c92570c5",
+        "email": "Clemmie63@roq.tech",
+        "firstName": "Emiliano",
+        "lastName": "Hermann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/48.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d46a0160-f782-48aa-804e-14bdc6a1f892",
+        "email": "Hyman45@roq.tech",
+        "firstName": "Wendy",
+        "lastName": "O'Hara",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/353.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7ec2e0b1-c985-4498-8c01-66d27cde5536",
+        "email": "Maddison_Schowalter20@roq.tech",
+        "firstName": "Katlynn",
+        "lastName": "Marquardt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/375.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4f41bd0a-42b2-47c4-842b-c5705f9bd037",
+        "email": "Bulah.Friesen56@roq.tech",
+        "firstName": "Hilda",
+        "lastName": "Gleason",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1107.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9a64509b-1b5a-4a1a-8717-b7f94f30f02d",
+        "email": "Lizeth_Mayer12@roq.tech",
+        "firstName": "Ressie",
+        "lastName": "Bruen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84439905",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "topic": [
+      {
+        "id": "924f20d8-3b96-40fa-9ca0-f6ec21b27c02",
+        "name": "Technology",
+        "description": "Exploring the latest tech trends",
+        "created_at": "2023-09-25T20:31:26.004Z",
+        "updated_at": "2023-09-26T06:33:28.989Z"
+      },
+      {
+        "id": "0b820365-a8cc-4951-ac4e-787c371d910d",
+        "name": "Sports",
+        "description": "Covering sports events worldwide",
+        "created_at": "2023-09-26T06:44:39.299Z",
+        "updated_at": "2023-09-26T03:00:43.313Z"
+      },
+      {
+        "id": "5a0d81b8-8483-4e06-b619-61bd1f7634d6",
+        "name": "Music",
+        "description": "Discovering new music genres",
+        "created_at": "2023-09-26T01:57:49.538Z",
+        "updated_at": "2023-09-26T10:25:29.186Z"
+      },
+      {
+        "id": "47186383-6cc1-43ee-a6c3-5e04333f71fd",
+        "name": "Food",
+        "description": "Exploring culinary delights",
+        "created_at": "2023-09-26T03:06:18.956Z",
+        "updated_at": "2023-09-25T17:04:37.476Z"
+      },
+      {
+        "id": "442c0e3c-2306-4818-bcb0-db772ec6e7cf",
+        "name": "Travel",
+        "description": "Adventures around the world",
+        "created_at": "2023-09-25T16:47:31.855Z",
+        "updated_at": "2023-09-26T02:18:04.139Z"
+      }
+    ],
+    "query": [
+      {
+        "id": "023b3b1a-f198-48f8-94fa-968c8f0121a3",
+        "content": "How to install a new software?",
+        "created_at": "2023-09-26T12:58:59.007Z",
+        "updated_at": "2023-09-26T06:48:15.601Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b59b5e4-b399-42b8-9e4d-d7c4e2ee8cfc",
+        "content": "Best workout routines for beginners",
+        "created_at": "2023-09-26T05:11:44.752Z",
+        "updated_at": "2023-09-26T12:43:50.412Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5993e6cc-dc9d-463f-afd3-80aa4c0b9fad",
+        "content": "Top 10 albums of all time",
+        "created_at": "2023-09-26T04:01:39.863Z",
+        "updated_at": "2023-09-26T07:28:35.514Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "90e0ba65-5056-4c62-bc3d-6e86cf47cb2d",
+        "content": "Delicious pasta recipes",
+        "created_at": "2023-09-25T19:05:53.389Z",
+        "updated_at": "2023-09-25T17:23:14.528Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "47ab3677-8b61-43cf-bdf1-eedffeaead4a",
+        "content": "Must-visit destinations in Europe",
+        "created_at": "2023-09-26T08:53:56.733Z",
+        "updated_at": "2023-09-26T00:55:38.530Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "response": [
+      {
+        "id": "c1a8894d-c1c7-4d9c-8ccf-c34780bc43a4",
+        "content": "Here's a step-by-step guide to install the software:",
+        "created_at": "2023-09-26T00:41:13.700Z",
+        "updated_at": "2023-09-25T16:12:10.137Z",
+        "query_id": "5993e6cc-dc9d-463f-afd3-80aa4c0b9fad"
+      },
+      {
+        "id": "99b5f7ce-0e82-4b1d-add5-30a1b93b5e59",
+        "content": "For beginners, it's recommended to start with these workout routines:",
+        "created_at": "2023-09-26T07:44:46.575Z",
+        "updated_at": "2023-09-26T09:23:56.604Z",
+        "query_id": "5993e6cc-dc9d-463f-afd3-80aa4c0b9fad"
+      },
+      {
+        "id": "d8ce2b03-2895-46ba-b9f8-b20cacbdfae6",
+        "content": "Here are the top 10 albums that you should listen to:",
+        "created_at": "2023-09-26T03:53:53.224Z",
+        "updated_at": "2023-09-25T15:07:18.076Z",
+        "query_id": "47ab3677-8b61-43cf-bdf1-eedffeaead4a"
+      },
+      {
+        "id": "d869bcfd-8794-4302-a906-77b3a4de4cd4",
+        "content": "Try this mouthwatering pasta recipe:",
+        "created_at": "2023-09-26T00:45:13.830Z",
+        "updated_at": "2023-09-25T19:28:08.282Z",
+        "query_id": "3b59b5e4-b399-42b8-9e4d-d7c4e2ee8cfc"
+      },
+      {
+        "id": "fc5bd2e1-f1f5-43e3-bb69-4c0a77541b5c",
+        "content": "These are the must-visit destinations in Europe:",
+        "created_at": "2023-09-26T03:50:18.884Z",
+        "updated_at": "2023-09-26T12:46:30.066Z",
+        "query_id": "3b59b5e4-b399-42b8-9e4d-d7c4e2ee8cfc"
+      }
+    ],
+    "query_topic": [
+      {
+        "id": "12142605-cb0d-4184-bccf-9c1030ca2155",
+        "created_at": "2023-09-25T23:42:59.307Z",
+        "updated_at": "2023-09-25T14:45:02.069Z",
+        "query_id": "90e0ba65-5056-4c62-bc3d-6e86cf47cb2d",
+        "topic_id": "924f20d8-3b96-40fa-9ca0-f6ec21b27c02"
+      },
+      {
+        "id": "b2046b95-beda-45df-ab97-f330513a7111",
+        "created_at": "2023-09-26T02:58:29.273Z",
+        "updated_at": "2023-09-25T17:46:35.452Z",
+        "query_id": "47ab3677-8b61-43cf-bdf1-eedffeaead4a",
+        "topic_id": "5a0d81b8-8483-4e06-b619-61bd1f7634d6"
+      },
+      {
+        "id": "48c6ccd0-6d66-4ac9-87cf-ffc398a5f0cf",
+        "created_at": "2023-09-26T10:36:09.087Z",
+        "updated_at": "2023-09-26T01:21:02.474Z",
+        "query_id": "5993e6cc-dc9d-463f-afd3-80aa4c0b9fad",
+        "topic_id": "924f20d8-3b96-40fa-9ca0-f6ec21b27c02"
+      },
+      {
+        "id": "47d10998-5fb0-4b69-831f-25854353b056",
+        "created_at": "2023-09-26T05:45:41.853Z",
+        "updated_at": "2023-09-25T16:18:41.675Z",
+        "query_id": "47ab3677-8b61-43cf-bdf1-eedffeaead4a",
+        "topic_id": "5a0d81b8-8483-4e06-b619-61bd1f7634d6"
+      },
+      {
+        "id": "8a484b7a-fd96-4ae2-98e1-35bff9912598",
+        "created_at": "2023-09-26T10:37:45.029Z",
+        "updated_at": "2023-09-25T21:57:58.832Z",
+        "query_id": "90e0ba65-5056-4c62-bc3d-6e86cf47cb2d",
+        "topic_id": "5a0d81b8-8483-4e06-b619-61bd1f7634d6"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "35a0939c-50e6-44d3-b032-f6c27ddc9a12",
+        "email": "Lucinda.Bayer@roq.tech",
+        "firstName": "Braulio",
+        "lastName": "Strosin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/113.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f750a2af-2e75-425d-92a1-652caa593c0f",
+        "email": "Nellie.Adams78@roq.tech",
+        "firstName": "Orrin",
+        "lastName": "Walter",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/482.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5b1362f9-4d72-4736-8548-18d7c207dd29",
+        "email": "Jeff_Muller85@roq.tech",
+        "firstName": "Lydia",
+        "lastName": "Wisoky",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47166168",
+        "tenantId": null
+      },
+      {
+        "reference": "8ac07527-0061-4e88-81da-eda315f61210",
+        "email": "Hector39@roq.tech",
+        "firstName": "Otho",
+        "lastName": "McLaughlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46146761",
+        "tenantId": null
+      },
+      {
+        "reference": "53695785-da97-462e-a394-4afca5e6c87c",
+        "email": "Joshuah_Dicki47@roq.tech",
+        "firstName": "Hazel",
+        "lastName": "Rempel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/883.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "topic": [
+      {
+        "id": "a444e8a0-8b82-49b9-8ea5-466d60e73307",
+        "name": "Technology",
+        "description": "Exploring the latest tech trends",
+        "created_at": "2023-09-25T17:03:25.694Z",
+        "updated_at": "2023-09-25T14:35:42.749Z"
+      },
+      {
+        "id": "693b9f61-36c6-4bae-8589-777c9723821e",
+        "name": "Sports",
+        "description": "Covering sports events worldwide",
+        "created_at": "2023-09-26T06:07:57.353Z",
+        "updated_at": "2023-09-25T21:59:32.059Z"
+      },
+      {
+        "id": "fed79d5b-1356-4765-a0d3-12dd7743ccf2",
+        "name": "Food",
+        "description": "Discovering new culinary delights",
+        "created_at": "2023-09-25T18:48:34.935Z",
+        "updated_at": "2023-09-25T18:45:32.117Z"
+      },
+      {
+        "id": "8f8574f5-900f-40e9-ad3e-d424acfba08e",
+        "name": "Travel",
+        "description": "Sharing travel experiences",
+        "created_at": "2023-09-25T20:22:49.714Z",
+        "updated_at": "2023-09-26T00:43:14.483Z"
+      },
+      {
+        "id": "25164a4b-fb98-46fc-99c5-42842cbc6022",
+        "name": "Music",
+        "description": "Appreciating various music genres",
+        "created_at": "2023-09-26T01:44:24.214Z",
+        "updated_at": "2023-09-26T04:18:28.069Z"
+      }
+    ],
+    "query": [
+      {
+        "id": "76556ccb-d2f7-4ef3-b3cc-162d9a0379ef",
+        "content": "How to fix a broken laptop screen?",
+        "created_at": "2023-09-26T04:36:12.225Z",
+        "updated_at": "2023-09-26T00:21:13.976Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "246bab84-ee1c-487a-b81f-872eb7220d46",
+        "content": "What are the rules of basketball?",
+        "created_at": "2023-09-26T01:33:34.865Z",
+        "updated_at": "2023-09-25T16:14:26.497Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0aa82423-7f66-4e69-9259-1104ee00d9a8",
+        "content": "How to make a delicious chocolate cake?",
+        "created_at": "2023-09-26T08:46:53.690Z",
+        "updated_at": "2023-09-26T05:09:22.572Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b31fbffc-cb3d-48e0-954a-124de253d8cb",
+        "content": "Best places to visit in Europe?",
+        "created_at": "2023-09-25T14:42:18.140Z",
+        "updated_at": "2023-09-25T19:03:08.429Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "27ba5850-36a9-4b14-8626-5de4fb5b1a04",
+        "content": "What are the different music genres?",
+        "created_at": "2023-09-26T02:45:26.314Z",
+        "updated_at": "2023-09-25T16:44:33.945Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "response": [
+      {
+        "id": "13ada207-db03-48e5-a44c-8f1fece43706",
+        "content": "You can replace the broken laptop screen by following these steps...",
+        "created_at": "2023-09-25T22:04:28.077Z",
+        "updated_at": "2023-09-25T17:53:22.136Z",
+        "query_id": "0aa82423-7f66-4e69-9259-1104ee00d9a8"
+      },
+      {
+        "id": "561556fb-c78a-40bb-ad9c-27bc17710bea",
+        "content": "The rules of basketball include...",
+        "created_at": "2023-09-25T18:40:58.096Z",
+        "updated_at": "2023-09-25T13:37:20.329Z",
+        "query_id": "b31fbffc-cb3d-48e0-954a-124de253d8cb"
+      },
+      {
+        "id": "2e291fd1-920b-4484-91cc-c55bc6cef8ae",
+        "content": "To make a delicious chocolate cake, you will need...",
+        "created_at": "2023-09-26T07:40:09.391Z",
+        "updated_at": "2023-09-25T19:04:43.507Z",
+        "query_id": "b31fbffc-cb3d-48e0-954a-124de253d8cb"
+      },
+      {
+        "id": "875c6ac4-5554-48a6-95b5-19d30a9441d1",
+        "content": "Some of the best places to visit in Europe are...",
+        "created_at": "2023-09-25T16:04:53.156Z",
+        "updated_at": "2023-09-25T18:25:13.666Z",
+        "query_id": "0aa82423-7f66-4e69-9259-1104ee00d9a8"
+      },
+      {
+        "id": "da4cda17-18c6-4a91-a5d5-dba2b5c93c37",
+        "content": "There are various music genres such as...",
+        "created_at": "2023-09-26T13:25:25.739Z",
+        "updated_at": "2023-09-25T19:29:26.039Z",
+        "query_id": "27ba5850-36a9-4b14-8626-5de4fb5b1a04"
+      }
+    ],
+    "query_topic": [
+      {
+        "id": "e5a738ef-f0ae-4081-bd14-b81679957900",
+        "created_at": "2023-09-26T04:20:57.935Z",
+        "updated_at": "2023-09-26T03:13:41.895Z",
+        "query_id": "0aa82423-7f66-4e69-9259-1104ee00d9a8",
+        "topic_id": "fed79d5b-1356-4765-a0d3-12dd7743ccf2"
+      },
+      {
+        "id": "317c31d9-68f1-43f5-93f2-9c79fc6c31b0",
+        "created_at": "2023-09-26T11:06:49.916Z",
+        "updated_at": "2023-09-26T00:48:40.794Z",
+        "query_id": "246bab84-ee1c-487a-b81f-872eb7220d46",
+        "topic_id": "a444e8a0-8b82-49b9-8ea5-466d60e73307"
+      },
+      {
+        "id": "43e1ea64-1950-4544-95aa-4381eb1d5608",
+        "created_at": "2023-09-25T20:08:47.628Z",
+        "updated_at": "2023-09-25T16:30:58.009Z",
+        "query_id": "b31fbffc-cb3d-48e0-954a-124de253d8cb",
+        "topic_id": "25164a4b-fb98-46fc-99c5-42842cbc6022"
+      },
+      {
+        "id": "0eaf7c97-37ec-4d65-b2a3-353a5cc9d763",
+        "created_at": "2023-09-26T12:40:12.933Z",
+        "updated_at": "2023-09-25T22:31:10.147Z",
+        "query_id": "246bab84-ee1c-487a-b81f-872eb7220d46",
+        "topic_id": "25164a4b-fb98-46fc-99c5-42842cbc6022"
+      },
+      {
+        "id": "ce4bfbf8-2e5d-4e3c-a389-e5bcecd8c555",
+        "created_at": "2023-09-26T05:26:35.587Z",
+        "updated_at": "2023-09-25T21:01:53.234Z",
+        "query_id": "0aa82423-7f66-4e69-9259-1104ee00d9a8",
+        "topic_id": "a444e8a0-8b82-49b9-8ea5-466d60e73307"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a6992e27-583d-422f-afab-09a7d4878af7",
+        "email": "Tyree_Schuppe79@roq.tech",
+        "firstName": "Jarret",
+        "lastName": "Schowalter",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/345.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5e21c1b0-8780-42b4-89b7-f68cd26e1c66",
+        "email": "Catharine60@roq.tech",
+        "firstName": "Damion",
+        "lastName": "Aufderhar",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/726.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cf887556-a3fe-438b-a459-b83315e282b8",
+        "email": "Alfredo.Keeling@roq.tech",
+        "firstName": "Leonardo",
+        "lastName": "Schroeder",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33601855",
+        "tenantId": null
+      },
+      {
+        "reference": "55d3e611-2de2-4210-80a9-080fc6f069f9",
+        "email": "Jillian78@roq.tech",
+        "firstName": "Ole",
+        "lastName": "Greenfelder",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39826333",
+        "tenantId": null
+      },
+      {
+        "reference": "a3e4f1b9-c25e-4cd0-bb14-db2dc520f8ea",
+        "email": "Sylvester.Olson18@roq.tech",
+        "firstName": "Cletus",
+        "lastName": "Kemmer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93822899",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "topic": [
+      {
+        "id": "2e9834f6-312e-4de7-94ac-0fa4e05fceed",
+        "name": "Technology",
+        "description": "Exploring the latest tech trends",
+        "created_at": "2023-09-26T06:00:11.307Z",
+        "updated_at": "2023-09-25T16:47:41.388Z"
+      },
+      {
+        "id": "1b487790-58d7-4d81-b4d6-43c0df779685",
+        "name": "Sports",
+        "description": "Covering the latest sports events",
+        "created_at": "2023-09-25T17:08:12.245Z",
+        "updated_at": "2023-09-25T20:25:19.451Z"
+      },
+      {
+        "id": "80ad6ed3-c37a-4e00-b161-f8fb3e521801",
+        "name": "Food",
+        "description": "Discovering delicious recipes",
+        "created_at": "2023-09-26T11:30:01.851Z",
+        "updated_at": "2023-09-25T16:12:05.531Z"
+      },
+      {
+        "id": "1233a69e-63bf-4219-a8e5-4dd26b7cd31f",
+        "name": "Travel",
+        "description": "Sharing travel experiences",
+        "created_at": "2023-09-26T12:49:16.101Z",
+        "updated_at": "2023-09-26T00:54:20.144Z"
+      },
+      {
+        "id": "2ca5adf3-713c-4952-af8b-1661fcebf6de",
+        "name": "Music",
+        "description": "Exploring different music genres",
+        "created_at": "2023-09-25T17:29:05.686Z",
+        "updated_at": "2023-09-26T12:22:43.087Z"
+      }
+    ],
+    "query": [
+      {
+        "id": "bd44913a-5926-404f-820a-2669415c7818",
+        "content": "How to install a software?",
+        "created_at": "2023-09-25T23:12:29.152Z",
+        "updated_at": "2023-09-25T19:18:55.091Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "16a26972-5897-43e9-9dbb-9b7d77c82435",
+        "content": "Best exercises for weight loss",
+        "created_at": "2023-09-25T21:26:15.852Z",
+        "updated_at": "2023-09-26T11:45:00.646Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "873ea823-cfb4-4bf3-864e-7112dad1e0b5",
+        "content": "Quick and easy dinner recipes",
+        "created_at": "2023-09-26T04:09:21.170Z",
+        "updated_at": "2023-09-25T15:01:05.472Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7de4eb95-2fad-4d0b-97bd-27b2db4edc30",
+        "content": "Top travel destinations in Europe",
+        "created_at": "2023-09-26T08:51:16.017Z",
+        "updated_at": "2023-09-25T16:53:17.060Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b5d34689-cb35-4b37-b4b1-575c39ab67aa",
+        "content": "Different types of music instruments",
+        "created_at": "2023-09-26T12:33:11.878Z",
+        "updated_at": "2023-09-25T15:52:31.676Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "response": [
+      {
+        "id": "fafb69f4-dc64-4b78-8ecc-ef6f468b81f4",
+        "content": "Here's a step-by-step guide on software installation.",
+        "created_at": "2023-09-26T01:52:18.060Z",
+        "updated_at": "2023-09-25T14:22:28.704Z",
+        "query_id": "7de4eb95-2fad-4d0b-97bd-27b2db4edc30"
+      },
+      {
+        "id": "8a1f9f00-1fd9-4cad-aa02-77c2a9555c4d",
+        "content": "These exercises are effective for weight loss.",
+        "created_at": "2023-09-26T03:28:00.240Z",
+        "updated_at": "2023-09-26T03:13:33.867Z",
+        "query_id": "bd44913a-5926-404f-820a-2669415c7818"
+      },
+      {
+        "id": "f58fd942-9d09-41a5-b050-f675cb3461ee",
+        "content": "Try these delicious dinner recipes.",
+        "created_at": "2023-09-26T11:58:35.584Z",
+        "updated_at": "2023-09-25T13:45:06.417Z",
+        "query_id": "873ea823-cfb4-4bf3-864e-7112dad1e0b5"
+      },
+      {
+        "id": "a653be8b-aac7-4231-8bd4-ad65a0a8857e",
+        "content": "Check out these amazing travel destinations.",
+        "created_at": "2023-09-25T16:18:03.892Z",
+        "updated_at": "2023-09-26T11:27:36.977Z",
+        "query_id": "7de4eb95-2fad-4d0b-97bd-27b2db4edc30"
+      },
+      {
+        "id": "f82c35a8-6e0f-4c42-8c0b-556afd1f5d03",
+        "content": "Learn about various music instruments.",
+        "created_at": "2023-09-26T02:31:38.363Z",
+        "updated_at": "2023-09-26T01:14:15.676Z",
+        "query_id": "873ea823-cfb4-4bf3-864e-7112dad1e0b5"
+      }
+    ],
+    "query_topic": [
+      {
+        "id": "f2d4ba89-05d8-459a-8bda-1b3be05bbb0f",
+        "created_at": "2023-09-26T01:30:11.202Z",
+        "updated_at": "2023-09-26T04:09:34.165Z",
+        "query_id": "16a26972-5897-43e9-9dbb-9b7d77c82435",
+        "topic_id": "1233a69e-63bf-4219-a8e5-4dd26b7cd31f"
+      },
+      {
+        "id": "5bfb46ae-79f2-46ee-8436-7931f93edff1",
+        "created_at": "2023-09-26T01:21:31.315Z",
+        "updated_at": "2023-09-26T10:00:19.542Z",
+        "query_id": "bd44913a-5926-404f-820a-2669415c7818",
+        "topic_id": "80ad6ed3-c37a-4e00-b161-f8fb3e521801"
+      },
+      {
+        "id": "ad73d16b-bf9f-41c0-ac26-cf86153299d5",
+        "created_at": "2023-09-25T16:54:45.423Z",
+        "updated_at": "2023-09-25T20:34:47.146Z",
+        "query_id": "873ea823-cfb4-4bf3-864e-7112dad1e0b5",
+        "topic_id": "1233a69e-63bf-4219-a8e5-4dd26b7cd31f"
+      },
+      {
+        "id": "eba50c43-4a6c-450a-87f8-b77204d6367b",
+        "created_at": "2023-09-25T18:48:57.017Z",
+        "updated_at": "2023-09-26T12:30:15.923Z",
+        "query_id": "873ea823-cfb4-4bf3-864e-7112dad1e0b5",
+        "topic_id": "1233a69e-63bf-4219-a8e5-4dd26b7cd31f"
+      },
+      {
+        "id": "58219cbd-6ce6-475d-bcaf-0f4da21e2f15",
+        "created_at": "2023-09-25T22:29:02.912Z",
+        "updated_at": "2023-09-25T17:07:00.825Z",
+        "query_id": "b5d34689-cb35-4b37-b4b1-575c39ab67aa",
+        "topic_id": "1233a69e-63bf-4219-a8e5-4dd26b7cd31f"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b720b3b6-d600-49d3-beef-b1873b823171",
+        "email": "Taylor.Waelchi96@roq.tech",
+        "firstName": "Hassan",
+        "lastName": "Lowe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1150.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9b90c964-bbc9-4bf4-a8fb-a6b77911fa0e",
+        "email": "Lula.Schmeler90@roq.tech",
+        "firstName": "Dena",
+        "lastName": "Schaefer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57985701",
+        "tenantId": null
+      },
+      {
+        "reference": "13cafc88-3f2d-4a0a-a6a3-16a582fe290c",
+        "email": "Odie.Goyette@roq.tech",
+        "firstName": "Lola",
+        "lastName": "Schmitt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29245250",
+        "tenantId": null
+      },
+      {
+        "reference": "0cebb45d-46c9-4094-98fc-5a449dbc4456",
+        "email": "Ayla_Hammes65@roq.tech",
+        "firstName": "Joan",
+        "lastName": "Lind",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15816252",
+        "tenantId": null
+      },
+      {
+        "reference": "d6ab90a7-0678-4c46-8326-05b7a323ab12",
+        "email": "Rodger.Weber@roq.tech",
+        "firstName": "Kendrick",
+        "lastName": "Kub",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/863.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "topic": [
+      {
+        "id": "c3c8a6b7-e5a7-40d2-ac5d-573cd1ab34fe",
+        "name": "Technology",
+        "description": "Exploring the latest tech trends",
+        "created_at": "2023-09-25T16:59:44.142Z",
+        "updated_at": "2023-09-26T13:25:03.650Z"
+      },
+      {
+        "id": "dbbb8c4e-fa45-4d2c-94d0-881e23e1e03f",
+        "name": "Sports",
+        "description": "Discussing sports events and news",
+        "created_at": "2023-09-25T14:04:20.245Z",
+        "updated_at": "2023-09-25T14:12:33.293Z"
+      },
+      {
+        "id": "28f65d5a-c044-4d21-b717-a1410947bc0d",
+        "name": "Music",
+        "description": "Appreciating different music genres",
+        "created_at": "2023-09-26T08:21:31.510Z",
+        "updated_at": "2023-09-26T07:41:07.709Z"
+      },
+      {
+        "id": "e53f828d-3e73-4c72-9ba4-951e1dbd74d1",
+        "name": "Food",
+        "description": "Sharing delicious recipes and food experiences",
+        "created_at": "2023-09-26T12:42:59.590Z",
+        "updated_at": "2023-09-26T03:32:04.423Z"
+      },
+      {
+        "id": "ce851101-4401-406a-854e-adf577db289a",
+        "name": "Travel",
+        "description": "Sharing travel tips and stories",
+        "created_at": "2023-09-25T13:53:35.185Z",
+        "updated_at": "2023-09-25T13:57:48.314Z"
+      }
+    ],
+    "query": [
+      {
+        "id": "cee32c52-06a9-4f08-b138-7b21d66ca0cf",
+        "content": "How to fix a broken laptop screen?",
+        "created_at": "2023-09-26T12:38:10.411Z",
+        "updated_at": "2023-09-25T18:33:19.692Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "58a77b83-0d4c-4811-aec2-c38efe71df61",
+        "content": "Best exercises for weight loss",
+        "created_at": "2023-09-25T22:44:14.604Z",
+        "updated_at": "2023-09-25T20:55:45.136Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6fe51aa8-5370-4caa-a3c7-5dbf2d3ba8f1",
+        "content": "Top 10 songs of all time",
+        "created_at": "2023-09-25T16:25:57.619Z",
+        "updated_at": "2023-09-25T22:23:15.864Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee6de43f-30ed-4c2c-8486-f812f97c1a55",
+        "content": "Quick and easy dinner recipes",
+        "created_at": "2023-09-25T17:05:38.657Z",
+        "updated_at": "2023-09-26T07:52:07.490Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6b8875ae-5f0d-449a-8bfb-c530ddf2bdb6",
+        "content": "Must-visit destinations in Europe",
+        "created_at": "2023-09-25T14:03:41.459Z",
+        "updated_at": "2023-09-26T10:34:51.477Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "response": [
+      {
+        "id": "0c44c6e9-5a3c-4f85-a0a1-f4dcf2cd1ba1",
+        "content": "You can replace the laptop screen by following these steps...",
+        "created_at": "2023-09-26T08:41:34.332Z",
+        "updated_at": "2023-09-25T15:20:31.615Z",
+        "query_id": "ee6de43f-30ed-4c2c-8486-f812f97c1a55"
+      },
+      {
+        "id": "d5a3d816-120a-49d6-92d6-c9808599526a",
+        "content": "For weight loss, focus on a combination of cardio and strength training exercises...",
+        "created_at": "2023-09-26T09:37:38.986Z",
+        "updated_at": "2023-09-25T15:34:08.695Z",
+        "query_id": "58a77b83-0d4c-4811-aec2-c38efe71df61"
+      },
+      {
+        "id": "7fab703c-6b5a-4ed8-8777-cfeb918768eb",
+        "content": "Here are the top 10 songs that have stood the test of time...",
+        "created_at": "2023-09-25T15:44:11.956Z",
+        "updated_at": "2023-09-25T21:18:35.293Z",
+        "query_id": "cee32c52-06a9-4f08-b138-7b21d66ca0cf"
+      },
+      {
+        "id": "8d2cdfd8-76eb-4f38-8a18-c361b3f27054",
+        "content": "Try this quick and easy dinner recipe for a delicious meal...",
+        "created_at": "2023-09-26T13:26:58.043Z",
+        "updated_at": "2023-09-25T16:11:14.417Z",
+        "query_id": "6b8875ae-5f0d-449a-8bfb-c530ddf2bdb6"
+      },
+      {
+        "id": "d9369114-73b2-4836-abb2-1c596d2a60fe",
+        "content": "When visiting Europe, make sure to explore these must-visit destinations...",
+        "created_at": "2023-09-25T13:37:17.162Z",
+        "updated_at": "2023-09-26T04:25:43.352Z",
+        "query_id": "58a77b83-0d4c-4811-aec2-c38efe71df61"
+      }
+    ],
+    "query_topic": [
+      {
+        "id": "a7c516a3-ed08-434f-ab28-9b0103ab6db9",
+        "created_at": "2023-09-26T03:40:42.484Z",
+        "updated_at": "2023-09-26T10:35:45.952Z",
+        "query_id": "cee32c52-06a9-4f08-b138-7b21d66ca0cf",
+        "topic_id": "dbbb8c4e-fa45-4d2c-94d0-881e23e1e03f"
+      },
+      {
+        "id": "7a62bd7a-5fb7-478e-979a-5b0f17a769fc",
+        "created_at": "2023-09-26T11:16:26.932Z",
+        "updated_at": "2023-09-25T17:55:41.217Z",
+        "query_id": "58a77b83-0d4c-4811-aec2-c38efe71df61",
+        "topic_id": "dbbb8c4e-fa45-4d2c-94d0-881e23e1e03f"
+      },
+      {
+        "id": "2b19915f-c113-4e13-8d17-690dd7ca1828",
+        "created_at": "2023-09-25T15:03:12.176Z",
+        "updated_at": "2023-09-26T04:23:15.517Z",
+        "query_id": "cee32c52-06a9-4f08-b138-7b21d66ca0cf",
+        "topic_id": "dbbb8c4e-fa45-4d2c-94d0-881e23e1e03f"
+      },
+      {
+        "id": "ea8f3e25-8ece-4746-8df0-0494ff5b7f88",
+        "created_at": "2023-09-26T02:54:53.107Z",
+        "updated_at": "2023-09-25T19:14:33.924Z",
+        "query_id": "6fe51aa8-5370-4caa-a3c7-5dbf2d3ba8f1",
+        "topic_id": "ce851101-4401-406a-854e-adf577db289a"
+      },
+      {
+        "id": "7a50a217-0544-4a8e-a147-830b9fdb703d",
+        "created_at": "2023-09-26T01:45:32.458Z",
+        "updated_at": "2023-09-26T01:49:39.949Z",
+        "query_id": "ee6de43f-30ed-4c2c-8486-f812f97c1a55",
+        "topic_id": "dbbb8c4e-fa45-4d2c-94d0-881e23e1e03f"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6a31f41c-1c7a-4403-ab55-2de8f4763711",
+        "email": "Dayne.Huels56@roq.tech",
+        "firstName": "Allie",
+        "lastName": "Hermann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34726627",
+        "tenantId": null
+      },
+      {
+        "reference": "1d1dcfb7-9c0e-493e-b06e-42a9a127a509",
+        "email": "Nick_Rath8@roq.tech",
+        "firstName": "Valentina",
+        "lastName": "Koch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/188.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bbd6fa39-5fd0-42fa-9973-8962ce916fe8",
+        "email": "Molly.Jast@roq.tech",
+        "firstName": "Oceane",
+        "lastName": "Friesen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24939898",
+        "tenantId": null
+      },
+      {
+        "reference": "991da37d-62d6-4c01-8c33-099c7fbdff0f",
+        "email": "Hermina25@roq.tech",
+        "firstName": "Fabiola",
+        "lastName": "Stiedemann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55442663",
+        "tenantId": null
+      },
+      {
+        "reference": "d891b517-095a-4a54-9044-9445b90b1bdb",
+        "email": "Braulio.Gerhold@roq.tech",
+        "firstName": "Jacques",
+        "lastName": "Lockman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1022.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
